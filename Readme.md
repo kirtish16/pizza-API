@@ -3,9 +3,15 @@
 
 A Django application to store information about order of different types of Pizza, interact with database using API interface.
 
+A pizza order contains information about:
+- Type : Regular, Square
+- Size : Small , Medium, Large
+- Toppings: User dependent(Example: Onion,Tomato,Cheese,Corn, Capsicum)
+
 ## Technology used
 
 Database used: **MongoDB**
+
 
 
 
